@@ -1,11 +1,11 @@
-<h1 align="center">Medical Insurance Cost Prediction</h1>
+<h1 align="center"> Medical Insurance Cost Prediction </h1>
 
 <div align= "center">
-  <h4>Medical Insurance Cost Prediction using Random Forest Regressor.</h4><br>
+  <h4> Medical Insurance Cost Prediction using Linear Regression </h4><br>
   <img src="https://st2.depositphotos.com/3474539/12401/v/950/depositphotos_124014280-stock-illustration-man-at-the-table-fills.jpg" width="500" height="500">
 </div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## Motivation
 
