@@ -11,9 +11,6 @@ from sklearn.linear_model import LinearRegression
 regsr=LinearRegression()
 regsr.fit(X,y)
 
-#import numpy as np
-#prediction=regsr.predict(np.asarray([20,30]).reshape(-1,2))
-#print(prediction)
 
 #visualisasing data
 from pandas.plotting import scatter_matrix
