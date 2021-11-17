@@ -23,9 +23,7 @@ So, an application can be made which can make people understand the factors whic
 Health insurance is a type of insurance that covers medical expenses that arise due to an illness. These expenses could be related to hospitalisation costs, cost of medicines or doctor consultation fees. It can be either Mediclaim plan or Critical Illness Insurance plan(Types of health insurance).
 No one plans to fall ill or get hurt, but a serious illness can strike anyone at any time. The cost of treating the illness can cause severe financial strain on the savings you have accumulated over time. This means that you might have to compromise on providing your child the best quality education or defaulting on your home loan payments. Today, the cost of medical treatment is continuously rising.
 
-<div align= "center">
-  <img src="IMG/MICP.jpg" raw=true alt="MICP" width="500" height="500">
-</div>
+
 
 ## Dataset
 
