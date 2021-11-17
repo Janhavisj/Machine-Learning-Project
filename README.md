@@ -37,7 +37,7 @@ https://www.kaggle.com/mirichoi0218/insurance
 <ol>
     <li>Janhavi Jagtap  https://github.com/Janhavisj</li>
     <li>Sakshi Kulkarni https://github.com/SakshiPKulkarni</li>
-    <li>Prachi patil</li>
+    <li>Prachi patil https://github.com/prachi1699</li>
   </ol>
 
 
